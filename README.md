@@ -1,9 +1,11 @@
 ## Présentation
-===============
+
 Je suis **étudiante en BUT Informatique** à l'**IUT d'Illkirch-Graffenstaden**.
 
+----
+
 ### Mes projets de première année :
-================================
+
 Vous trouverez ci-dessous les principaux projets que j'ai réalisés au cours de ma première année :
 
 - **Projet en programmation orientée objet (POO)** basé sur le jeu *Inscryption*.
