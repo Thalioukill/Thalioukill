@@ -1,16 +1,15 @@
-## Hi there 👋
-
 <!--
 **Thalioukill/Thalioukill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Présentation
 
-Here are some ideas to get you started:
+Je suis **étudiante en BUT Informatique** à l'**IUT d'Illkirch-Graffenstaden**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Mes projets de première année
+
+Vous trouverez ci-dessous les principaux projets que j'ai réalisés au cours de ma première année :
+
+- **Projet en programmation orientée objet (POO)** basé sur le jeu *Inscryption*.
+- **Projet Windows .NET Framework** sur le thème de *Stargate*.
+- **Projet en assembleur** reproduisant une bataille navale.
+- **Projet en langage C** simulant un petit réseau local (LAN).
 -->
