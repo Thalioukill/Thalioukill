@@ -1,15 +1,21 @@
 ## Présentation
 
-Je suis **étudiante en BUT Informatique** à l'**IUT d'Illkirch-Graffenstaden**.
+Hi there ! 👋
 
-----
+Moi c’est **Thalioukill**, étudiante en BUT Informatique à **Strasbourg**.
 
-### Mes projets de première année :
+Je suis passionnée par les langages bas niveau comme le *C*, mais aussi par la conception d’interfaces et l’**__expérience utilisateur (UX/UI)__**.
 
-Vous trouverez ci-dessous les principaux projets que j'ai réalisés au cours de ma première année :
+J’aime beaucoup les **échecs** et la logique.
 
-- **Projet en programmation orientée objet (POO)** basé sur le jeu *Inscryption*.
-- **Projet Windows .NET Framework** sur le thème de *Stargate*.
+Voici un aperçu de mes principaux projets réalisés au cours de ma première année d’études :
+
+---
+
+## Mes projets de première année
+
+- Projet en programmation orientée objet (POO) basé sur le jeu *Inscryption*  
+- Projet Windows .NET Framework sur le thème de *Stargate*
 <!--
 - **Projet en assembleur** reproduisant une bataille navale.
 - **Projet en langage C** simulant un petit réseau local (LAN).
