@@ -1,6 +1,5 @@
-## Présentation
+## Hi there ! 👋
 
-Hi there ! 👋
 
 Moi c’est **Thalioukill**, étudiante en BUT Informatique à **Strasbourg**.
 
@@ -14,9 +13,11 @@ Voici un aperçu de mes principaux projets réalisés au cours de ma première a
 
 ## Mes projets de première année
 
+J’ai réalisé plusieurs projets en programmation : un jeu en **POO** inspiré d’*Inscryption*, un projet **Windows .NET** basé sur *Stargate*, une *bataille navale* en **assembleur** et une simulation de réseau local *(LAN)* en langage **C**.
+<!--
 - Projet en programmation orientée objet (POO) basé sur le jeu *Inscryption*  
 - Projet Windows .NET Framework sur le thème de *Stargate*
-<!--
-- **Projet en assembleur** reproduisant une bataille navale.
-- **Projet en langage C** simulant un petit réseau local (LAN).
+- Projet en assembleur reproduisant une bataille navale.
+- Projet en langage C simulant un petit réseau local (LAN).
 -->
+
