@@ -2,39 +2,45 @@
   <img src="assets/banner.png" alt="Bannière" width="100%">
 </p>
 
+
 <a name="fr"></a>
 # Bienvenue ! 👋
 <p>
   <a href="#en"><img src="https://img.shields.io/badge/English%20version-red?style=for-the-badge" alt="English version"></a>
 </p>
 
-Moi c’est **Thalia**, étudiante en BUT Informatique à **Strasbourg**.
+Moi c'est **Thalia**, étudiante en BUT Informatique à **Strasbourg**.
 
-Je suis passionnée par les langages bas niveau comme le *C*, mais aussi par la conception d’interfaces et l’**__expérience utilisateur (UX/UI)__**.
+Je suis passionnée par les langages bas niveau comme le *C*, mais aussi par la conception d'interfaces et l'**__expérience utilisateur (UX/UI)__**.
 
-J’aime beaucoup les **échecs** et la logique.
+Je suis également bénévole au **pôle secrétariat** de l'association **CORE** de mon IUT.
+
+En dehors du code, j'aime beaucoup la **musique**, les **échecs** et la logique.
 
 [![Chess.com](https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white)](https://www.chess.com/member/boahankok)
 
-Voici un aperçu de mes principaux projets réalisés au cours de ma première année d’études :
+Je suis aussi une grande sportive et je m'entraîne actuellement pour un **triathlon format S**.
 
 ---
 
+## ✩ Mes projets épinglés
 
-# Mes projets de première année
-
-J’ai réalisé plusieurs projets en programmation : un jeu en **POO** inspiré d’*Inscryption*, un projet **Windows .NET** basé sur *Stargate*, une *bataille navale* en **assembleur** et une simulation de réseau local *(LAN)* en langage **C**.
+J’ai réalisé plusieurs projets en programmation :
 <!--
 - Projet en programmation orientée objet (POO) basé sur le jeu *Inscryption*  
 - Projet Windows .NET Framework sur le thème de *Stargate*
-- Projet en assembleur reproduisant une bataille navale.
-- Projet en langage C simulant un petit réseau local (LAN).
+- Projet en **assembleur** reproduisant une bataille navale.
 -->
+
+
+## ✩ Mes projets en cours de développement
+
+
 
 ---
 
 
-# Ma boîte à outils :
+## ✩ Ma boîte à outils :
 
 Chaque projet est une occasion d'apprendre quelque chose de nouveau. Voici les langages et les outils que j'ai appris à utiliser pour donner vie à mes idées. Clique sur une icône pour découvrir la doc ou installer l'outil !
 
@@ -105,6 +111,21 @@ Chaque projet est une occasion d'apprendre quelque chose de nouveau. Voici les l
 
 ---
 
+## ✩ Statistiques 
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thalioukill&show_icons=true&locale=fr&hide_border=true" alt="Statistiques GitHub" height="165">
+  <img width="20"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thalioukill&layout=compact&locale=fr&hide_border=true" alt="Langages les plus utilisés" height="165">
+</p>
+
+<br>
+
+---
+<p align="center">
+  <img src="assets/separator.png" alt="Version anglaise" width="80%">
+</p>
+
 <a name="en"></a>
 # Welcome! 👋
 <p>
@@ -115,23 +136,30 @@ I'm **Thalia**, a Computer Science student in the BUT program (Bachelor of Techn
 
 I'm passionate about low-level languages like *C*, as well as interface design and **__user experience (UX/UI)__**.
 
-I really enjoy **chess** and logic.
+I also volunteer in the **secretarial team** of **CORE**, my IUT's student association.
+
+Outside of coding, I really enjoy **music**, **chess**, and logic.
 
 [![Chess.com](https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white)](https://www.chess.com/member/boahankok)
 
-Here's an overview of the main projects I completed during my first year of studies:
+ I'm also very into sports and I'm currently training for a **sprint triathlon**.
 
 ---
 
+## ✩ Pinned Projects
 
-# My First-Year Projects
+I have completed several programming projects:
+<!--
+- Object-oriented programming (OOP) project based on the game *Inscryption*
+- Windows .NET Framework project themed around *Stargate*
+- **Assembly** project recreating a game of Battleship.
+-->
 
-I completed several programming projects: an **OOP** game inspired by *Inscryption*, a **Windows .NET** project based on *Stargate*, a *Battleship* game in **assembly language**, and a local area network *(LAN)* simulation in **C**.
 
----
+## ✩ Projects in Progress
 
 
-# My Toolbox
+## ✩ My Toolbox
 
 Every project is an opportunity to learn something new. Here are the languages and tools I've learned to use to bring my ideas to life. Click an icon to check out the docs or install the tool!
 
@@ -199,3 +227,13 @@ Every project is an opportunity to learn something new. Here are the languages a
     <img width="20"/>
   <a href="https://workspace.google.com/products/sheets/"><img src="https://cdn.simpleicons.org/googlesheets/34A853" height="32" alt="Google Sheets" title="Google Sheets"></a>
 </div>
+
+## ✩ Statistics
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thalioukill&show_icons=true&locale=en&hide_border=true" alt="GitHub stats" height="165">
+  <img width="20"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thalioukill&layout=compact&locale=en&hide_border=true" alt="Most used languages" height="165">
+</p>
+
+<br>
