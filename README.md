@@ -1,9 +1,9 @@
+<a name="fr"></a>
 <p align="center">
   <img src="assets/banner.png" alt="Bannière" width="100%">
 </p>
 
 
-<a name="fr"></a>
 # Bienvenue ! 👋
 <p>
   <a href="#en"><img src="https://img.shields.io/badge/English%20version-red?style=for-the-badge" alt="English version"></a>
@@ -122,11 +122,11 @@ Chaque projet est une occasion d'apprendre quelque chose de nouveau. Voici les l
 <br>
 
 ---
+<a name="en"></a>
 <p align="center">
   <img src="assets/separator.png" alt="Version anglaise" width="80%">
 </p>
 
-<a name="en"></a>
 # Welcome! 👋
 <p>
   <a href="#fr"><img src="https://img.shields.io/badge/Version%20française-blue?style=for-the-badge" alt="Version française"></a>
