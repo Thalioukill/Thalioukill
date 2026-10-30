@@ -25,24 +25,59 @@ Je suis aussi une grande sportive et je m'entraîne actuellement pour un **triat
 
 ## ✩ Mes projets épinglés
 
-J’ai réalisé plusieurs projets en programmation :
 <!--
 - Projet en programmation orientée objet (POO) basé sur le jeu *Inscryption*  
 - Projet Windows .NET Framework sur le thème de *Stargate*
 - Projet en **assembleur** reproduisant une bataille navale.
 -->
 
+Cliquez sur une carte pour accéder au dépôt et découvrir le projet en détail.
 
-## ✩ Mes projets en cours de développement
+### ♤ Hollow Pine
+🎓 *Projet étudiant*
 
 
+>*Une cabane perdue au fond des bois, un adversaire qui ne vous quitte pas des yeux, et des cartes qui réclament du sang. Trois parties pour vous échapper… si Leshy vous laisse partir.*
+
+Jeu de cartes en console inspiré d'*Inscryption*, réalisé en trinôme en **Java**.
+<br>
+<br>
+
+<p align="center">
+  <a href="https://github.com/Thalioukill/hollow-pine-game">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Thalioukill&repo=hollow-pine-game&theme=midnight-purple" alt="Dépôt Hollow Pine">
+  </a>
+</p>
+
+### ✦ Stargate Mission Control
+🎓 *Projet étudiant*
+
+
+>*La porte des étoiles s'ouvre. Au-delà : des planètes inconnues, des espèces alliées ou hostiles, et un minerai que toute la galaxie convoite. Préparez vos équipes… et ramenez-les vivantes.*
+
+Application de bureau de gestion de missions, réalisée en trinôme en **C#** (Windows Forms, SQLite).
+<br>
+<br>
+<p align="center">
+  <a href="https://github.com/Thalioukill/stargate-mission-control">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Thalioukill&repo=stargate-mission-control&theme=midnight-purple" alt="Dépôt Stargate Mission Control">
+  </a>
+</p>
+<br>
+
+## ✩ Mes projets en cours
+
+### ◇ Dealing Politics
+🎓 *Projet étudiant*
+
+Jeu sérieux sur le thème des streamers politiques, développé dans le cadre du 3e semestre de mon BUT Informatique. Le dépôt sera publié une fois le projet terminé.
 
 ---
 
 
-## ✩ Ma boîte à outils :
+## ✩ Ma boîte à outils
 
-Chaque projet est une occasion d'apprendre quelque chose de nouveau. Voici les langages et les outils que j'ai appris à utiliser pour donner vie à mes idées. Clique sur une icône pour découvrir la doc ou installer l'outil !
+Chaque projet est une occasion d'apprendre quelque chose de nouveau. Voici les langages et les outils que j'ai appris à utiliser pour donner vie à mes idées. Cliquez sur une icône pour découvrir la doc ou installer l'outil !
 
 ### Langages de programmation
 
@@ -112,11 +147,14 @@ Chaque projet est une occasion d'apprendre quelque chose de nouveau. Voici les l
 ---
 
 ## ✩ Statistiques 
+
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thalioukill&show_icons=true&locale=fr&hide_border=true" alt="Statistiques GitHub" height="165">
+  <img src="https://github-stats-extended.vercel.app/api?username=Thalioukill&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&show=contributions,all_time_contribs&hide=stars,issues&theme=midnight-purple" alt="Statistiques GitHub" height="190">
   <img width="20"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thalioukill&layout=compact&locale=fr&hide_border=true" alt="Langages les plus utilisés" height="165">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Thalioukill&layout=compact&langs_count=8&exclude_repo=thalioukill&locale=fr&theme=midnight-purple" alt="Langages les plus utilisés" height="190">
+  <br>
+  <sub>Statistiques générées avec <a href="https://github.com/stats-organization/github-stats-extended">GitHub Stats Extended</a></sub>
 </p>
 
 <br>
@@ -142,22 +180,58 @@ Outside of coding, I really enjoy **music**, **chess**, and logic.
 
 [![Chess.com](https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white)](https://www.chess.com/member/boahankok)
 
- I'm also very into sports and I'm currently training for a **sprint triathlon**.
+I'm also very into sports and I'm currently training for a **sprint triathlon**.
 
 ---
 
 ## ✩ Pinned Projects
 
-I have completed several programming projects:
 <!--
 - Object-oriented programming (OOP) project based on the game *Inscryption*
 - Windows .NET Framework project themed around *Stargate*
 - **Assembly** project recreating a game of Battleship.
 -->
 
+Click a card to visit the repository and explore the project in detail.
+
+### ♤ Hollow Pine
+🎓 *Student project*
+
+>*A cabin lost deep in the woods, an opponent who never takes his eyes off you, and cards that demand blood. Three games to escape… if Leshy lets you leave.*
+
+A console card game inspired by *Inscryption*, built in **Java** by a team of three.
+<br>
+<br>
+
+<p align="center">
+  <a href="https://github.com/Thalioukill/hollow-pine-game">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Thalioukill&repo=hollow-pine-game&theme=midnight-purple" alt="Hollow Pine repository">
+  </a>
+</p>
+
+### ✦ Stargate Mission Control
+🎓 *Student project*
+
+>*The Stargate opens. Beyond it: unknown planets, allied or hostile species, and an ore the whole galaxy is fighting over. Prepare your teams… and bring them back alive.*
+
+A mission management desktop app, built in **C#** by a team of three (Windows Forms, SQLite).
+<br>
+<br>
+<p align="center">
+  <a href="https://github.com/Thalioukill/stargate-mission-control">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Thalioukill&repo=stargate-mission-control&theme=midnight-purple" alt="Stargate Mission Control repository">
+  </a>
+</p>
+<br>
 
 ## ✩ Projects in Progress
 
+### ◇ Dealing Politics
+🎓 *Student project*
+
+A serious game about political streamers, developed as part of the third semester of my BUT in Computer Science. The repository will be published once the project is complete.
+
+---
 
 ## ✩ My Toolbox
 
@@ -228,12 +302,15 @@ Every project is an opportunity to learn something new. Here are the languages a
   <a href="https://workspace.google.com/products/sheets/"><img src="https://cdn.simpleicons.org/googlesheets/34A853" height="32" alt="Google Sheets" title="Google Sheets"></a>
 </div>
 
+---
+
 ## ✩ Statistics
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thalioukill&show_icons=true&locale=en&hide_border=true" alt="GitHub stats" height="165">
+  <img src="https://github-stats-extended.vercel.app/api?username=Thalioukill&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&show=contributions,all_time_contribs&hide=stars,issues&theme=midnight-purple" alt="GitHub stats" height="190">
   <img width="20"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thalioukill&layout=compact&locale=en&hide_border=true" alt="Most used languages" height="165">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Thalioukill&layout=compact&langs_count=8&exclude_repo=thalioukill&locale=en&theme=midnight-purple" alt="Most used languages" height="190">
+  <br>
+  <sub>Stats generated with <a href="https://github.com/stats-organization/github-stats-extended">GitHub Stats Extended</a></sub>
 </p>
-
 <br>
