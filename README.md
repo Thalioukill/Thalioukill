@@ -25,12 +25,6 @@ Je suis aussi une grande sportive et je m'entraîne actuellement pour un **triat
 
 ## ✩ Mes projets épinglés
 
-<!--
-- Projet en programmation orientée objet (POO) basé sur le jeu *Inscryption*  
-- Projet Windows .NET Framework sur le thème de *Stargate*
-- Projet en **assembleur** reproduisant une bataille navale.
--->
-
 Cliquez sur une carte pour accéder au dépôt et découvrir le projet en détail.
 
 ### ♤ Hollow Pine
@@ -48,6 +42,7 @@ Jeu de cartes en console inspiré d'*Inscryption*, réalisé en trinôme en **Ja
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=Thalioukill&repo=hollow-pine-game&theme=midnight-purple" alt="Dépôt Hollow Pine">
   </a>
 </p>
+<br>
 
 ### ✦ Stargate Mission Control
 🎓 *Projet étudiant*
@@ -61,6 +56,21 @@ Application de bureau de gestion de missions, réalisée en trinôme en **C#** (
 <p align="center">
   <a href="https://github.com/Thalioukill/stargate-mission-control">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=Thalioukill&repo=stargate-mission-control&theme=midnight-purple" alt="Dépôt Stargate Mission Control">
+  </a>
+</p>
+<br>
+
+### ⛴︎ Bataille navale en MIPS32
+🎓 *Projet étudiant*
+
+>*Cinq navires cachés sur une grille de 10 × 10, et aucun joueur à la barre : le programme place sa flotte, tire au hasard… puis traque sans relâche chaque navire touché.*
+
+Simulateur de bataille navale en **assembleur MIPS32**, réalisé seule.
+<br>
+<br>
+<p align="center">
+  <a href="https://github.com/Thalioukill/battleship-mips32">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Thalioukill&repo=battleship-mips32&theme=midnight-purple" alt="Dépôt Bataille navale en MIPS32">
   </a>
 </p>
 <br>
@@ -186,11 +196,6 @@ I'm also very into sports and I'm currently training for a **sprint triathlon**.
 
 ## ✩ Pinned Projects
 
-<!--
-- Object-oriented programming (OOP) project based on the game *Inscryption*
-- Windows .NET Framework project themed around *Stargate*
-- **Assembly** project recreating a game of Battleship.
--->
 
 Click a card to visit the repository and explore the project in detail.
 
@@ -208,6 +213,7 @@ A console card game inspired by *Inscryption*, built in **Java** by a team of th
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=Thalioukill&repo=hollow-pine-game&theme=midnight-purple" alt="Hollow Pine repository">
   </a>
 </p>
+<br>
 
 ### ✦ Stargate Mission Control
 🎓 *Student project*
@@ -220,6 +226,21 @@ A mission management desktop app, built in **C#** by a team of three (Windows Fo
 <p align="center">
   <a href="https://github.com/Thalioukill/stargate-mission-control">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=Thalioukill&repo=stargate-mission-control&theme=midnight-purple" alt="Stargate Mission Control repository">
+  </a>
+</p>
+<br>
+
+### ⛴︎ Battleship in MIPS32
+🎓 *Student project*
+
+>*Five ships hidden on a 10 × 10 grid, and no one at the helm: the program places its fleet, fires at random… then relentlessly hunts down every ship it hits.*
+
+A Battleship simulator written in **MIPS32 assembly**, built on my own.
+<br>
+<br>
+<p align="center">
+  <a href="https://github.com/Thalioukill/battleship-mips32">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Thalioukill&repo=battleship-mips32&theme=midnight-purple" alt="Battleship in MIPS32 repository">
   </a>
 </p>
 <br>
